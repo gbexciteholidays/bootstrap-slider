@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap-slider",
+  "homepage": "https://github.com/jschr/bootstrap-slider",
+  "_release": "f4c4f8714a",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "f4c4f8714a8306eecdb96e52f283c3696cea8887"
+  },
+  "_source": "https://github.com/jschr/bootstrap-slider.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/jschr/bootstrap-slider.git",
+  "_direct": true
+}
